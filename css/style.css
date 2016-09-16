@@ -1,0 +1,182 @@
+*{}
+	
+body{
+	background-color:#f1f1f1;}
+	
+.container{
+	width:100%;}
+
+.logo img{
+	height:35px;}
+	
+.header{
+	width:100%;
+	height:50px;
+	background-color:#FFF;
+	padding-left:20px;
+	position:relative;
+	border:thin solid #CCC;}
+	
+.glyphicon-align-justify{
+	color:#999;}
+	
+.glyphicon-align-justify:hover{
+	color:#666;}
+
+
+.searchbox{
+    border-top:thin solid  #e5e5e5;
+    border-right:thin solid #e5e5e5;
+    border-bottom:0;
+    border-left:thin solid  #e5e5e5;
+    box-shadow:0px 1px 1px 1px #e5e5e5;
+    height:27px;
+    margin:.8em 0 0 .5em; 
+    outline:0;
+    padding:.4em 0 .4em .6em; 
+    width:600px; 
+	display:inline;
+}
+  
+.searchButton{
+	position:absolute;
+    background-color:#f1f1f1;
+    border-top:thin solid #e5e5e5;
+    box-shadow:1px 1px 1px 1px #e5e5e5;
+    cursor:pointer;
+    height:27px;
+    margin:11px 0 0 0;
+    text-align:center;
+    width:70px;
+	display:inline;
+}
+  
+.searchButton img{
+    margin:4px;
+    width:20px; 
+}
+
+.btn-upload{
+	position:absolute;
+	right:150px;
+	border:none;
+	border-top:thin solid #e5e5e5;
+	background-color:#f1f1f1;
+    box-shadow:1px 1px 1px 1px #e5e5e5;
+    cursor:pointer;
+    height:27px;
+    margin:11px 0 0 0;
+    text-align:center;
+    width:70px;
+	border-radius:5px;
+	font-size:12px;
+	font-weight:bold;}
+	
+.btn-signin{
+	position:absolute;
+	right:50px;
+	background-color:#167ac6;
+	border:none;
+	border-top:thin solid #e5e5e5;
+    box-shadow:1px 1px 1px 1px #e5e5e5;
+    cursor:pointer;
+    height:27px;
+    margin:11px 0 0 0;
+    text-align:center;
+    width:70px;
+	border-radius:5px;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFF;}
+	
+.menu-nav{
+	width:12%;
+	height:600px;
+	background-color:#FFF;
+	border-right:thin solid #CCC;
+	border-bottom:thin solid #CCC;}
+	
+ul{
+		margin:0;
+		padding:0;
+		border:0;
+		background:transparent;
+		list-style:none;}
+		
+	li{
+		margin:0;
+		padding:0;
+		border:0;
+		height:30px;
+		background:transparent;
+		list-style:none;
+		display:list-item;
+		text-align:-webkit-match-parent;}
+		
+	.menu-item{
+		max-height:40px;
+		overflow:hidden;
+		position:relative;}
+		
+	a{
+		margin:0;
+		padding:0;
+		cursor:pointer;
+		text-decoration:none;
+		color:#333;}
+		
+.nav-icon {
+		margin-left: 6px;
+		margin-right: 0;
+		vertical-align: bottom;
+	}
+.icon-home {
+		background: no-repeat url(../images/www-hitchhiker-vfl4TIZxK.jpg) -81px -1138px;
+		background-size: auto;
+		width: 20px;
+		height: 20px;
+	}
+	
+.icon-channel {
+		background: no-repeat url(../images/www-hitchhiker-vfl4TIZxK.jpg) -14px -999px;
+		background-size: auto;
+		width: 20px;
+		height: 20px;
+	}
+	
+.icon-trending {
+		background: no-repeat url(../images/www-hitchhiker-vfl4TIZxK.jpg) -110px -758px;
+		background-size: auto;
+		width: 20px;
+		height: 20px;
+	}
+	
+.icon-subcribe {
+		background: no-repeat url(../images/www-hitchhiker-vfl4TIZxK.jpg) -55px -1611px;
+		background-size: auto;
+		width: 20px;
+		height: 20px;
+	}
+	
+.show{
+		display:inline-block;}
+		
+.display-name .no-count{
+		width:100px;}
+		
+.display-name{
+		padding-left:10px;
+		vertical-align:bottom;}
+		
+.at-valign{
+		white-space:nowrap;}
+		
+.at-tooltip{
+		display:inline-block;}
+	
+
+
+
+
+
+	
